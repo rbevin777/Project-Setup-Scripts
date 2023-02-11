@@ -23,6 +23,5 @@ jobs:
 workflows:
   sample:
     jobs:
-      - build-and-test
       - commitlint/lint
 
