@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name=ENTER_NAME_HERE
+GenericName=ENTER GENERIC NAME HERE
+Exec=gnome-terminal --working-directory=path/to/terminal
+Icon=org.gnome.Terminal
